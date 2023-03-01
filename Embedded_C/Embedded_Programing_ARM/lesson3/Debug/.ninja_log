@@ -1,0 +1,13 @@
+# ninja log v5
+1	381	6885788594795151	C:/embedded_programing/lesson1/Debug/Obj/main.o	6187d001e303330d
+385	2349	6885788614512148	C:/embedded_programing/lesson1/Debug/Exe/project.out	e19ac1b4918a659e
+10	231	6885791247223557	C:/embedded_programing/lesson1/Debug/Obj/main.o	6187d001e303330d
+234	293	6885791247873950	C:/embedded_programing/lesson1/Debug/Exe/project.out	e19ac1b4918a659e
+1	318	6885808387203178	C:/embedded_programing/lesson2/Debug/Obj/main.o	80ece60de5d368d3
+321	382	6885808387890426	C:/embedded_programing/lesson2/Debug/Exe/project.out	c154c1f38e2baf89
+1	341	6885818003074260	C:/embedded_programing/lesson3/Debug/Obj/main.o	32c289ecc30e2e8d
+345	404	6885818003738014	C:/embedded_programing/lesson3/Debug/Exe/project.out	cb884829f2f1fff5
+1	225	6885818630268208	C:/embedded_programing/lesson3/Debug/Obj/main.o	32c289ecc30e2e8d
+229	290	6885818630935215	C:/embedded_programing/lesson3/Debug/Exe/project.out	cb884829f2f1fff5
+1	327	6885825201064255	C:/embedded_programing/lesson3/Debug/Obj/main.o	32c289ecc30e2e8d
+331	395	6885825201785405	C:/embedded_programing/lesson3/Debug/Exe/project.out	cb884829f2f1fff5
